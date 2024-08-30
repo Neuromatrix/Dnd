@@ -1,2 +1,8 @@
-4Master/**
+
 .obsidian/**
+Exhibition/**
+Prompts/**
+.smart-env/**
+
+# Ignore Smart Connections folder
+.smart-connections
